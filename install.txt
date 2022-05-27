@@ -1,0 +1,9 @@
+pip install spacy
+python -m spacy download en_core_web_trf
+pip install openpyxl
+pip install easyocr
+pip install pandas
+pip install Pillow
+pip install coverage
+pip install pytest
+pip install "fuzzywuzzy[speedup]"
